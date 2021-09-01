@@ -11,7 +11,7 @@
 - This algorithm consist several process
   1. Add speckle noise into the original image
 <p align="center">
-  <img width="20%" height="20%" src="https://github.com/masyitah-abu/Homomorphic-Filtering/blob/main/raw.png">
+  <img width="50%" height="50%" src="https://github.com/masyitah-abu/Homomorphic-Filtering/blob/main/noiseimage.png">
 </p>
 
   3. Filter noise added using homomorphic filtering
